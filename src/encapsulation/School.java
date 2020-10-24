@@ -9,6 +9,5 @@ public class School {
 	student1.setSnn(1234567);
 	int social=student1.getSnn();
 	System.out.println(social);
-	System.out.println("hello everyone");
 }
 }
