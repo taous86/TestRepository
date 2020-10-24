@@ -8,6 +8,6 @@ public class School {
 	System.out.println(student1.getName());
 	student1.setSnn(1234567);
 	int social=student1.getSnn();
-
+	System.out.println(social);
 }
 }
