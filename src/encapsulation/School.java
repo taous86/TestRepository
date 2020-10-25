@@ -11,5 +11,6 @@ public class School {
 	System.out.println(social);
         System.out.println("testing1");
 		System.out.println("from rachida");
+		System.out.println("Hello from Mourad");
 }
 }
