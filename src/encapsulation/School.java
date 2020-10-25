@@ -10,5 +10,6 @@ public class School {
 	int social=student1.getSnn();
 	System.out.println(social);
         System.out.println("testing1");
+		System.out.println("from rachida");
 }
 }
